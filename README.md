@@ -2,12 +2,15 @@
 
 This plugin outputs the information about the player's location in the dimension through Placeholder in the Tab or game chat.
 
-World - green color
-World_nether - red color
-World_end - purple color
+- World - green color
+- World_nether - red color
+- World_end - purple color
 Placeholder:
 ```
 %worldplaceholder%
+```
+
+```
 messages:
   noPermission: "&#dc143cYou do not have sufficient permissions to perform this action!"
   reloaded: "&#00ff7fPlugin successfully reloaded"
