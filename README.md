@@ -6,7 +6,7 @@ World - green color
 World_nether - red color
 World_end - purple color
 Placeholder:
-
+```
 %worldplaceholder%
 messages:
   noPermission: "&#dc143cYou do not have sufficient permissions to perform this action!"
@@ -22,4 +22,5 @@ worlds:
   world: "&#00ff7f"
   world_nether: "&#dc143c"
   world_the_end: "&#8a2be2"
+```
 In the config.yml, you can change the colors as well as the symbol.
