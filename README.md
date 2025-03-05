@@ -1,3 +1,6 @@
+![Снимок экрана 2025-03-05 024549](https://github.com/user-attachments/assets/6eca8bb1-7f45-4029-9900-021498905358)
+
+
 # WorldPlaceholder
 
 This plugin outputs the information about the player's location in the dimension through Placeholder in the Tab or game chat.
