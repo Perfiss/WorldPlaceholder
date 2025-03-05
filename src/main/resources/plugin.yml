@@ -2,8 +2,7 @@ name: WorldPlaceholder
 version: '1.0.0'
 main: zxc.mrdrag0nxyt.worldPlaceholder.WorldPlaceholder
 api-version: '1.21'
-authors: [ MrDrag0nXYT (drakoshaslv) ]
-website: https://drakoshaslv.ru/
+authors: [ Perfis_ ]
 
 depend: [ "PlaceholderAPI" ]
 
