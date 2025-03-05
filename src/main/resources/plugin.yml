@@ -1,0 +1,19 @@
+name: WorldPlaceholder
+version: '1.0.0'
+main: zxc.mrdrag0nxyt.worldPlaceholder.WorldPlaceholder
+api-version: '1.21'
+authors: [ MrDrag0nXYT (drakoshaslv) ]
+website: https://drakoshaslv.ru/
+
+depend: [ "PlaceholderAPI" ]
+
+libraries:
+  - "org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.1.0"
+
+permissions:
+  wp.reload:
+    default: op
+
+commands:
+  wpreload:
+    permission: wp.reload
